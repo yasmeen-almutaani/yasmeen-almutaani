@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yasmeen-almutaani
+- 🌱 I’m currently **CS** student at UQU
+- ⚡ Interested in ML especially NLP
+- 📫 my LinkedIn account "www.linkedin.com/in/yasmeen-almutaani"
